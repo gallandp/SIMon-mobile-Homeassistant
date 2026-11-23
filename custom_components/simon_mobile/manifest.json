@@ -6,10 +6,10 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/teddybaerd/homeassistant-simon-mobile",
+  "documentation": "https://github.com/gallandp/SIMon-mobile-Homeassistant",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/teddybaerd/homeassistant-simon-mobile/issues",
+  "issue_tracker": "https://github.com/gallandp/SIMon-mobile-Homeassistant/issues",
   "requirements": [],
   "version": "0.1.0"
 }
